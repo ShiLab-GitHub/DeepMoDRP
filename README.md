@@ -1,5 +1,5 @@
 # DeepMoDRP
-A Multi-Omics Based Deep Learning Framework for Drug Response Prediction in Brain Cancer
+This repository archives the datasets and Python scripts employed in the study described in the paper ["DeepMoDRP: A Multi‐Omics‐Based Deep Learning Framework for Drug Response Prediction in Brain Cancer"](https://doi.org/10.1002/minf.70020). The published article is freely available via [the link](https://onlinelibrary.wiley.com/share/author/NSQUGAQNMVVR7BYSJE6P?target=10.1002/minf.70020).
 ## Data
 1. ic50/80cell_line_ic50.csv: brain cancer drug response data from the GDSC2 database  
 2. cellline/cellline_listwithACH_80cellline.csv: list of cell lines we used  
